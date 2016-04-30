@@ -1,1 +1,16 @@
 D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\bin\Debug\StuInfoSys.exe.config
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.csprojResolveAssemblyReference.cache
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.Form1.resources
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.Form2.resources
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.Form3.resources
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.Properties.Resources.resources
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.csproj.GenerateResource.Cache
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\bin\Debug\StuInfoSys.exe
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\bin\Debug\StuInfoSys.pdb
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.exe
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.pdb
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\bin\Debug\Interop.ADODB.dll
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\bin\Debug\Interop.ADOX.dll
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\Interop.ADODB.dll
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\Interop.ADOX.dll
+D:\sec_grade_xia\c++与c#\StuInfoSys\StuInfoSys\obj\Debug\StuInfoSys.csproj.ResolveComReference.cache
